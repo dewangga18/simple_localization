@@ -23,7 +23,6 @@ class MyApp extends StatelessWidget {
         Locale('id', ''),
         Locale('en', ''),
       ],
-      locale: Locale('id', ''),
       home: HomePage(),
     );
   }
